@@ -1,0 +1,5 @@
+dnspython
+folium
+requests
+tkinterweb
+Pillow

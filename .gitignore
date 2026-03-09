@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Project Logs
+log/
+*.txt
+!requirements.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dynamic HTML Outputs
+*.html
+!README.md
